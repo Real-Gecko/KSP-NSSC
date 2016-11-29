@@ -7,3 +7,7 @@ Uses models from [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com
 ## Requirements
 - Simple Construction
 - Module Manager
+
+## Changelog
+### Version 1.0.1
+- Added support for KPBS, K&K Planetary Cupola is now survey station too
