@@ -9,5 +9,9 @@ Uses models from [Extraplanetary Launchpads](http://forum.kerbalspaceprogram.com
 - Module Manager
 
 ## Changelog
+### Version 1.0.2
+- Removed K&K Planetary Cupola definition as KPBS now has extensive EL support
+- Mallet MM patch (for KIS) tweaked
+
 ### Version 1.0.1
 - Added support for KPBS, K&K Planetary Cupola is now survey station too
